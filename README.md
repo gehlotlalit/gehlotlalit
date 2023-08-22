@@ -16,7 +16,7 @@
 <a href="https://codepen.io/https://codepen.io/gehlotlalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/gehlotlalit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-malviya-1168b3266/" target="blank"><img align="center" src=https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png alt="https://www.linkedin.com/in/lalit-malviya-1168b3266/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anonymous_coder2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anonymous_coder2021/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gehlotlaxmk6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/gehlotlaxmk6" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gehlotlaxmk6" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=AbQBhN9v62Ob&format=png"alt="https://auth.geeksforgeeks.org/user/gehlotlaxmk6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
