@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQGcsu2eivXE_g/profile-displaybackgroundimage-shrink_350_1400/0/1689997394771?e=1695859200&v=beta&t=vsb-xEfk4ru655AzokK1iemrUEoxOz-tgJrHN0_OM4w)
+![Banner](https://media.licdn.com/dms/image/D5616AQFL7BWjxSw1Hw/profile-displaybackgroundimage-shrink_350_1400/0/1682846519460?e=1698278400&v=beta&t=Zw8NiFZ9lWayX9Xl-gvH5tpS7VJE-xs8qN5Nehqpftc)
 <h1 align="center">Hi 👋, I'm Lalit Malviya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
