@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-malviya-1168b3266/" target="blank"><img align="center" src=https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png alt="https://www.linkedin.com/in/lalit-malviya-1168b3266/" height="33" width="42" /></a>
-<a href="https://www.hackerrank.com/gehlotlalit786?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/gehlotlalit786?hr_r=1" height="35" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gehlotlaxmk6" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=AbQBhN9v62Ob&format=png"alt="https://auth.geeksforgeeks.org/user/gehlotlaxmk6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-malviya-1168b3266/" target="blank"><img align="center" src=https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png alt="https://www.linkedin.com/in/lalit-malviya-1168b3266/" height="33" width="35" /></a>
+<a href="https://www.hackerrank.com/gehlotlalit786?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/gehlotlalit786?hr_r=1" height="30" width="33" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gehlotlaxmk6" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=AbQBhN9v62Ob&format=png"alt="https://auth.geeksforgeeks.org/user/gehlotlaxmk6" height="30" width="36" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
