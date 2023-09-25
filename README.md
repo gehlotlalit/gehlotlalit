@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/gehlotlalit" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/501/531/png-transparent-codepen-logos-and-brands-line-filled-icon.png" alt="https://codepen.io/gehlotlalit" height="25" width="35" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-malviya-1168b3266/" target="blank"><img align="center" src=https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png alt="https://www.linkedin.com/in/lalit-malviya-1168b3266/" height="33" width="42" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anonymous_coder2021/" target="blank"><img align="center" src="https://download.logo.wine/logo/Instagram/Instagram-Logo.wine.png" alt="https://www.instagram.com/anonymous_coder2021/" height="35" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gehlotlaxmk6" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=AbQBhN9v62Ob&format=png"alt="https://auth.geeksforgeeks.org/user/gehlotlaxmk6" height="30" width="40" /></a>
