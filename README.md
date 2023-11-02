@@ -1,6 +1,6 @@
 ![Banner](https://media.licdn.com/dms/image/D5616AQFL7BWjxSw1Hw/profile-displaybackgroundimage-shrink_350_1400/0/1682846519460?e=1698278400&v=beta&t=Zw8NiFZ9lWayX9Xl-gvH5tpS7VJE-xs8qN5Nehqpftc)
 <h1 align="center">Hi 👋, I'm Lalit Malviya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhvdXFqMzczeDhwdHJjeGJ0bmNiajI5cHRuemRyeXJwbHZqb3F3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
