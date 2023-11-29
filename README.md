@@ -1,4 +1,3 @@
-![Banner]()
 <h1 align="center">Hi 👋, I'm Lalit Malviya</h1>
 <h3 align="center">A Passionate frontend developer from India</h3>
 
