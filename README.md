@@ -26,6 +26,7 @@
 <img src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="javascript" width="37" height="35"/>
 <img src="https://w7.pngwing.com/pngs/207/785/png-transparent-photoshop-cc-hd-logo.png" alt="photoshop" width="40" height="37"/>
 <img src="https://banner2.cleanpng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg" alt="python" width="42" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react native" width="42" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gehlotlalit&show_icons=true&locale=en&layout=compact" alt="gehlotlalit" /></p>
